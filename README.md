@@ -16,4 +16,4 @@
 ### Algorithms
 | Title           |  Solution       | Difficulty    | Points         |
 |---------------- |:---------------:|:-------------:|:--------------:|
-| [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)| [C#](./Algorithms/Sock%Merchant/Solution.cs) | Easy | 10 |
+| [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)| [C#](./Algorithms/Sock%20Merchant/Solution.cs) | Easy | 10 |
