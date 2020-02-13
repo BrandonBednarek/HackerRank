@@ -6,7 +6,7 @@
 </p>
 
 ## Interview Preparation Kit
-### [Arrays](./README_V2.md#arrays)
+### [Arrays](./README.md#arrays)
 
 ## Solutions
 ### Arrays
